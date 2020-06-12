@@ -1,0 +1,10 @@
+body {
+  margin: 20% auto;
+  width: 50%;
+  height: 75%;
+}
+
+.calculator {
+  border-style: double
+}
+/* .button1 {border-radius: 50%;} */
